@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 - Live Site URL: [Solution](https://github.com/M6AngelMartinez/blog-preview-card-main.git)
-- Live Site URL: [live site]([https://github.com/M6AngelMartinez/blog-preview-card-main.git](https://m6angelmartinez.github.io/blog-preview-card-main/))
+- Live Site URL: [live site](https://m6angelmartinez.github.io/blog-preview-card-main/)
 
 ## My process
 
