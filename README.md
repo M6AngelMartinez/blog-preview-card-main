@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/blog-preview-card-main/assets/images/Captura%20de%20pantalla%202025-07-05%20180743.png)
+![](Captura%20de%20pantalla%202025-07-05%20180743.png)
 
 ### Links
-
-- Live Site URL: [Add live site URL here](https://github.com/M6AngelMartinez/blog-preview-card-main.git)
+- Live Site URL: [Solution](https://github.com/M6AngelMartinez/blog-preview-card-main.git)
+- Live Site URL: [live site]([https://github.com/M6AngelMartinez/blog-preview-card-main.git](https://m6angelmartinez.github.io/blog-preview-card-main/))
 
 ## My process
 
